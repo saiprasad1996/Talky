@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "831786464315",
+    "firebase_url": "https://talky-53a8e.firebaseio.com",
+    "project_id": "talky-53a8e",
+    "storage_bucket": "talky-53a8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831786464315:android:108c91818deaf7e2",
+        "android_client_info": {
+          "package_name": "tk.saiprasad.talky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831786464315-3ldugg8at88l7qrpr1k2grf99vb8c8nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYlMYhQ2w3u5g1L0fnMNv55aAcgi5F6mI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
